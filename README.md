@@ -1,34 +1,28 @@
+## Project Overview
 
----
+This project provides an engaging visualization of various sorting algorithms. Array elements are depicted as bars, with distinct colors used to represent different operations:
 
--->Project Overview
-{
-This project offers an interactive visualization of various sorting algorithms. The array elements are represented as bars, with different colors indicating specific operations:
+1. **Light Pink (#FADADD)** - Represents a swap operation.
+2. **Soft Blue (#A8D8EA)** - Indicates a comparison between elements.
+3. **Mint Green (#B4E1B8)** - Highlights elements that are correctly positioned in the sorted array.
 
-1. **Light Pink (#FADADD)** - Indicates a swap operation.
-2. **Soft Blue (#A8D8EA)** - Represents a comparison between elements.
-3. **Mint Green (#B4E1B8)** - Shows elements that are correctly placed in the sorted array.
+Additionally, the tool tracks and compares the time required by different sorting algorithms to sort the array.
 
-The tool also measures and compares the time taken by different sorting algorithms to sort the array.
-}
+## Technologies Used
 
--->Technologies Used
-{
-- HTML
-- CSS
-- JavaScript (p5.js)
-}
+- **HTML**: For structuring the web pages.
+- **CSS**: For styling the visual elements.
+- **JavaScript (p5.js)**: For interactive and dynamic features.
 
+## Acknowledgments
 
--->Acknowledgments
-{
-The concept and design of this project were inspired by [Coding Train](https://shubh67678.github.io/sorting-visualizer).
+This project draws inspiration from [Coding Train](https://shubh67678.github.io/sorting-visualizer).
 
-For detailed explanations of the sorting algorithms implemented, refer to the following resources:
+For further information on the sorting algorithms used in this project, consult the following resources:
 
 - [Bubble Sort](https://en.wikipedia.org/wiki/Bubble_sort)
 - [Selection Sort](https://en.wikipedia.org/wiki/Selection_sort)
 - [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort)
 - [Quick Sort](https://en.wikipedia.org/wiki/Quicksort)
-}
+
 ---
